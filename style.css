@@ -99,9 +99,11 @@ body {
   margin: 0 0 32px;
 }
 
-.skills-list {
-  margin: 0;
+.skills-list, .skills h3 {
+  margin: 10;
   padding: 0;
+  width: 60%;
+  padding-left: 19%;
 }
 
 .skills-list dt {
